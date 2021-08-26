@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+  margin: 1em 1em;
+  font-size: 1.6em;
+  cursor: pointer;
+  border-radius: 50px;
+  border: 1px solid lightgray;
+  padding: 5px 10px;
+}
+
+video {
+  border: 1px solid lightgray;
+  width: 100%;
+  background-color: #eee;
+}
