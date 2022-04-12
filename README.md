@@ -1,5 +1,7 @@
 # ScreenCap
 
+🔴 LIVE on CSB: https://i7fdv.csb.app/
+
 Basic Screen Capture app that I will probably never finish.
 
 A solution for all the bloated and untrustwory online screen capture apps out there.
